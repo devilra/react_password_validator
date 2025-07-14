@@ -1,5 +1,9 @@
 # 🔐 Password Validator - React Mini Project
 
+<p align="center">
+  <img src="./Screenshot.png" alt="Password Validator Screenshot" width="600"/>
+</p>
+
 A simple and interactive password validator built with React. It validates a user's password input in real-time and provides feedback based on common security rules.
 
 ## 🚀 Features
