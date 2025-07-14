@@ -1,12 +1,21 @@
-# React + Vite
+# 🔐 Password Validator - React Mini Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive password validator built with React. It validates a user's password input in real-time and provides feedback based on common security rules.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Live password validation
+- 🔡 Checks for:
+  - Uppercase letter
+  - Number
+  - Special character
+  - Minimum 8 characters
+- 💡 Suggests a strong random password
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Functional Components + Hooks)
+
+## 📸 Screenshot
+
+![screenshot](./Screenshot.png) <!-- Optional: You can take a screenshot and add the image file -->
